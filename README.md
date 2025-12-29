@@ -3,11 +3,11 @@
 
 - 🧑‍🎓 I'm Currently studying at Cesar School
 
-- 🌱 I’m currently learning **Python, JavaScript, Java, GML and C#**
+- 🌱 I’m currently learning **Python, JavaScript, Java, GML, GDScript and C**
 
 - 📫 How to reach me **danielbarbosa27@icloud.com**
 
-- ⚡ Fun fact **I think i have a pretty diverse set of minimum skills**
+- ⚡ Fun fact **If  I'm invested, I'll try to go to the bottom of it**
 
 <h3 align="left">Find me:</h3>
 <p align="left">
