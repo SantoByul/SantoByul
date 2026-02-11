@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **danielbarbosa27@icloud.com**
 
-- ⚡ Fun fact **If  I'm invested, I'll try to go to the bottom of it**
+- ⚡ Fun fact **If  I'm interested, I'll try to go to the bottom of it**
 
 <h3 align="left">Find me:</h3>
 <p align="left">
