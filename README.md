@@ -11,8 +11,7 @@
 
 <h3 align="left">Find me:</h3>
 <p align="left">
-<a href="https://x.com/SantoByul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santobyul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SantoByul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santobyul" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
